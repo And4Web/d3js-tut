@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/d3js-tut/static/css/main.cfeacc3f.css",
+    "main.js": "/d3js-tut/static/js/main.b6364428.js",
+    "static/js/787.9797f476.chunk.js": "/d3js-tut/static/js/787.9797f476.chunk.js",
+    "index.html": "/d3js-tut/index.html",
+    "main.cfeacc3f.css.map": "/d3js-tut/static/css/main.cfeacc3f.css.map",
+    "main.b6364428.js.map": "/d3js-tut/static/js/main.b6364428.js.map",
+    "787.9797f476.chunk.js.map": "/d3js-tut/static/js/787.9797f476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfeacc3f.css",
+    "static/js/main.b6364428.js"
+  ]
+}
